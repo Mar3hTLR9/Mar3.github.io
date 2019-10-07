@@ -1,3 +1,7 @@
+theme: slate theme
+title: Mar3hTLR9's first test
+description: first trial so there is nothing here :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mar3hTLR9/Mar3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
